@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Chiemela Ememanka
 
-<!--
-**Emela01/emela01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a beginner software developer learning Flutter and AI  
+🚀 I'm building my first app soon  
+📱 I work mostly on my phone using Termux and GitHub  
+🎯 My goal: Build and launch profitable apps that help people
 
-Here are some ideas to get you started:
+## 📌 My Current Projects
+- Portfolio website template
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills I'm Learning
+- Flutter & Dart
+- Git & GitHub
+- HTML, CSS & JS
+
+## 🌍 Connect with me
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your Name](https://linkedin.com/in/your-link)
+- Email: chiemelaememanka@gmail.com
+
+<!-- Let's grow together! -->
